@@ -6,7 +6,7 @@ export const AboutPage = () => {
       <div className="content">
         <div className="about">
           <div className="about__banner">
-            <img src="http://pm1.narvii.com/7260/ffdfa6efc5b48e62a8914e53ebd105dbbf3c0b97r1-2048-1160v2_uhq.jpg" />
+            <img src="https://all-aforizmy.ru/wp-content/uploads/2022/07/1920x1080-px-cartoon-morty-smith-rick-and-morty-rick-sanchez-wubalubadubdub-1424349.jpg" />
             <h1>About</h1>
           </div>
           <p className="about__text">

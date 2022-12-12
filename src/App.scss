@@ -38,7 +38,7 @@ p{
   h1{
     position: relative;
     z-index: 100;
-    color: #fff;
+    color: rgb(33, 33, 33);
     font-size: 60px;
     text-transform: uppercase;
   }
@@ -46,6 +46,7 @@ p{
 .about__text{
   font-size: 16px;
   margin-top: 16px;
+  color: #fff;
 }
 .content{
   padding: 100px 0;
